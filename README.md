@@ -1,7 +1,7 @@
 Greetings 🙋‍♂️
 
 <a href="https://rust-kr.org/">
-  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-FF7328?style=flat&logo=Rust&logoColor=white"/>
 </a>
 
 [![Jam's github stats](https://github-readme-stats.vercel.app/api?username=datactor)](https://github.com/anuraghazra/github-readme-stats)
