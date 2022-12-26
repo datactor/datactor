@@ -1,7 +1,7 @@
 Hello
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-F05138?style=flat&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-FF7328?style=flat&logo=Rust&logoColor=white"/>
 </p>
 
 [![Jam's github stats](https://github-readme-stats.vercel.app/api?username=datactor)](https://github.com/anuraghazra/github-readme-stats)
