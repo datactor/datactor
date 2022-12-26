@@ -1,5 +1,9 @@
 Hello
 
+<p>
+  <img src="https://img.shields.io/badge/Rust-#000000?style=flat-square&logo=Rust&logoColor=white"/>
+</p>
+
 [![Jam's github stats](https://github-readme-stats.vercel.app/api?username=datactor)](https://github.com/anuraghazra/github-readme-stats)
 
 
