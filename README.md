@@ -4,6 +4,7 @@ Greetings 🙋‍♂️
   <img src="https://img.shields.io/badge/Rust-FF7328?style=flat&logo=Rust&logoColor=white"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datactor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Jam's github stats](https://github-readme-stats.vercel.app/api?username=datactor)](https://github.com/anuraghazra/github-readme-stats)
 
 
